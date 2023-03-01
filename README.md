@@ -10,7 +10,7 @@ A ideia agora é criar o Space Cream na versão Desktop!
 
 # Tecnologias utilizadas
 
-HTML, CSS e JavaScript
+HTML e CSS 
 
 ### leyout
 
