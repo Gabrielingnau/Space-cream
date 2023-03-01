@@ -1,19 +1,17 @@
 # Spece cream
 
-A ideia agora é criar o Space Cream na versão Desktop! 
+The idea now is to create Space Cream in the Desktop version!
 
-# O que será abordado nesse desafio:
+# What will be addressed in this challenge:
 
 - Grid;
-- Animações e transições, como visto em aula;
+- Animations and transitions, as seen in class;
 - Media queries.
 
-# Tecnologias utilizadas
+# Technologies used
 
 HTML e CSS 
 
 ### leyout
 
 ![Desafio avançado](https://user-images.githubusercontent.com/116130802/221474398-dea05973-2cb8-43a0-88de-add70f245c5d.png)
-
-
