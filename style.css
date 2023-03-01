@@ -228,7 +228,7 @@ main p {
  z-index: -1;
 }
 
-main .cardee .card img {
+main .card-2 .card img {
  width: 22rem;
  height: 35rem;
  margin: 0 auto;
@@ -241,19 +241,19 @@ main .card img {
  position: relative;
 }
 
-main .cardee .card {
+main .card-2 .card {
  width: 22rem;
  height: 35rem;
  margin: 0;
 }
 
-main .cardeee .card img {
+main .container .card img {
  width: 22rem;
  height: 35rem;
  margin: 0;
 }
 
-main .cardeee .card {
+main .container .card {
  width: 22rem;
  height: 15rem;
  margin: 0;
